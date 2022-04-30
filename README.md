@@ -1,4 +1,4 @@
-# Zenith-Universal-
+# Zenith-Universal
 A C# based multi tool Aimbot for many games that have a gun or you have to aim.
 If you like Zenith Universal, feel free to star the repo and follow for more githubs like this that are cool tools that i make free :D
 
