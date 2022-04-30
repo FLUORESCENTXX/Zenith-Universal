@@ -55,6 +55,9 @@ This will then start the aimbot and it will work when it locks on to the persons
 
 # 📝 Changelog
 
+ **v1.2** - 30/04/22
+ Added message that the aimbot has been enabled on games. 
+ 
  **v1.1** - First update 30/04/2022
  
  Added multiple aimbots for different games as the very most popular ones, i will in future work on other games and making the aimbot them as i just picked the good ones and popular.
